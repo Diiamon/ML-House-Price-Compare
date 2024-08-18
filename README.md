@@ -47,7 +47,7 @@ Visualisations of the Root Mean Square Error (RMSE) results for different models
 
 ## Analysis Summary
 
-### Chapter 3 - Analysis of Outcomes and Model Performance
+### Analysis of Outcomes and Model Performance
 
 - **Model Performance Summary:**
   - **Gradient Boosted Trees (GBT):** Outperformed other models in accuracy, particularly effective due to its handling of non-linear relationships.
