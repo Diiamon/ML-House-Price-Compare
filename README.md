@@ -35,7 +35,7 @@ The code for analyzing and modeling the datasets is organized into three Jupyter
 
 3. **Notebook 3: UK Housing Price Index (UK HPI)**
    - **Description:** Comparative analysis of model outcomes using the UK Housing Price Index dataset, including insights on seasonal adjustments and geographic variability.
-   - **File:** `codes/Uhousing_data_explore_2.ipynb`
+   - **File:** `codes/housing_data_explore_2.ipynb`
 
 ## Visualisations
 
